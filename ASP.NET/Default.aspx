@@ -7,4 +7,7 @@
          <div>
             Бамбалейо!
     </div>
+    <div>
+            Тусуемся!
+    </div>
 </asp:Content>
